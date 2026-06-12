@@ -1,0 +1,7 @@
+interface:
+  display_name: "Auto Reasoning Effort"
+  short_description: "Calibrate reasoning effort automatically"
+  default_prompt: "Use $auto-reasoning-effort to choose the smallest suitable reasoning effort for this task."
+
+policy:
+  allow_implicit_invocation: true
